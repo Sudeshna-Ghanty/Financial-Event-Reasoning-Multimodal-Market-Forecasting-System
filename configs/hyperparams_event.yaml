@@ -1,0 +1,7 @@
+
+model: t5-small
+lr: 3e-4
+batch_size: 4
+epochs: 3
+max_input_len: 256
+max_target_len: 64

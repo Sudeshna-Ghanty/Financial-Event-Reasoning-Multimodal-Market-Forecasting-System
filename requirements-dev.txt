@@ -1,0 +1,11 @@
+pytest>=7.0
+ruff
+mypy
+pre-commit
+# Runtime packages used by fast dry-run tests and API TestClient
+fastapi
+uvicorn
+networkx
+pandas
+numpy
+httpx
